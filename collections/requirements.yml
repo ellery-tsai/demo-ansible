@@ -1,0 +1,5 @@
+---
+collections:
+  - name: http://10.11.21.151:8082/artifactory/eds-aapcollection-dev-local/eds-example-1.7.0.tar.gz
+    version: 1.7.0
+    type: url

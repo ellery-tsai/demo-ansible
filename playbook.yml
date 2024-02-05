@@ -1,0 +1,11 @@
+---
+- name: Test eds.example
+  hosts: all
+
+  tasks:
+    - name: Display
+      ansible.builtin.debug:
+        msg: "main"
+    - name: Call eds.example
+      ansible.builtin.import_role:
+        name: eds.example.example1

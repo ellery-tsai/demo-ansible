@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "eds",
+  "name": "example",
+  "version": "1.7.0",
+  "authors": [
+   "Ellery <ellery.tsai@extremedata.com.tw>"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "This is my first collection",
+  "license": [
+   "MIT"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "http://example.com/repository",
+  "documentation": "http://docs.example.com",
+  "homepage": "http://example.com",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "16590300767888d7f7ffa34cd80cc20f353dd36667bbcfd8ff5bd8ab648eb4ca",
+  "format": 1
+ },
+ "format": 1
+}
